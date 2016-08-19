@@ -1,0 +1,36 @@
+body{
+  background-color:#7fdbff;
+}
+
+h1, h2{
+  font-style: oblique;
+  padding:50px;
+  background: orange;
+  margin: 0;
+  text-align: center;
+  font-size: 40px
+}
+nav ul li{
+  float:left;
+  margin:1%;
+  list-style-type: none;
+  background:orange;
+  width:30%;
+  padding: 20px 0;
+  text-align: center;
+  font-family:andale mono,monospace;
+  color: black;
+}
+nav ul li a{
+  color:white;
+}
+
+p{
+  padding:40px
+}
+.secondary{
+  text-align: center;
+  background:orange;
+  font-size:20px
+  font-family: monospace;
+}
