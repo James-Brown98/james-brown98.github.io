@@ -1,56 +1,54 @@
-body{
-  background-color:#7fdbff;
+body {
+    background-color: #7fdbff;
 }
-
-h1, h2{
-  font-style: oblique;
-  background-image: url(london.jpg);
-  background-size:contain;cover;
-  color: white;
-  width: 100%;
-  margin: 0;
-  padding-top:90px;
-  padding-bottom:90ps;
-  text-align: center;
-  font-size: 40px
+h1, h2 {
+    font-style: oblique;
+    background-image: url(london.jpg);
+    background-size: contain;
+    cover;
+    color: white;
+    width: 100%;
+    margin: 0;
+    padding-top: 90px;
+    padding-bottom: 90ps;
+    text-align: center;
+    font-size: 40px
 }
-
-nav ul li{
-  float:left;
-  margin:1%;
-  list-style-type: none;
-  background:orange;
-  width:30%;
-  padding: 20px 0;
-  text-align: center;
-  font-family:andale mono,monospace;
-  color: black;
+nav ul li {
+    float: left;
+    margin: 1%;
+    list-style-type: none;
+    background: orange;
+    width: 30%;
+    padding: 20px 0;
+    text-align: center;
+    font-family: andale mono, monospace;
+    color: black;
 }
-nav ul li a{
-  color:white;
+nav ul li a {
+    color: white;
 }
-
-p{
-  font-family: monospace;
-  float: left;
+p {
+    font-family: monospace;
+    float: left;
 }
-.secondary{
-  background-size: cover;
-  height:90px;
-  font-family:monospace;
-  text-align: center;
-  margin-top: 30px;
-  background:orange;
-  font-size:20px;
-  padding: 10px 30%;
+.secondary {
+    background-size: cover;
+    height: 90px;
+    font-family: monospace;
+    text-align: center;
+    margin-top: 30px;
+    background: orange;
+    font-size: 20px;
+    padding: 10px 30%;
 }
-.techhead{
-  margin-top: 200px;
-  text-align: center;
+.techhead {
+    margin-top: 200px;
+    text-align: center;
 }
-.techone{
-  margin:0px;
+.techone {
+    margin: 0px;
 }
-.box{
-  display: inline-block;
+.box {
+    display: inline-block;
 }
