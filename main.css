@@ -1,0 +1,64 @@
+
+.image{
+position: relative;
+width: 100%;
+margin-left: 0;
+}
+h1{
+  position: absolute;
+  top:70px;
+  left:15%;
+  color: white;
+  font-size: 3rem;
+  font-family: monospace;
+
+}
+
+nav{
+  border-right-style: solid;
+  border-color: #999;
+  border-width: 1px;
+  text-align: center;
+}
+
+nav ul{
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  font-size: 1.3em;
+  text-align: center;
+  font-family: monospace;
+}
+nav ul li{
+  padding: 6px;
+
+}
+
+nav a{
+  color: black;
+  text-decoration: underline;
+}
+
+.row{
+  display: flex;flex-wrap: flex;
+}
+
+h2{
+  font-size: 2rem;
+  font-family: monospace;;
+}
+
+.content{
+  margin-left: 10px;
+  font-family: monospace; Monaco; Lucia console;
+  font-size: 1.1em;
+  margin:20px;
+}
+
+body{
+  margin-bottom: 80px;
+}
+
+p{
+  margin-right: auto;
+}
