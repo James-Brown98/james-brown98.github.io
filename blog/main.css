@@ -40,9 +40,9 @@ nav ul li{
 
 }
 
-nav li a{
-  color: #aa3311;
+nav ul li a{
   text-decoration: underline;
+  color: #aa3311;
 }
 
 .row{
