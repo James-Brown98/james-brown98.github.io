@@ -1,8 +1,7 @@
 @media (max-width: 550px){
   nav{
     width: 100%;
-  }
-}
+  }}
 
 .image{
 position: relative;
@@ -42,7 +41,7 @@ nav ul li{
 
 nav ul li a{
   text-decoration: underline;
-  color: #aa3311;
+  color: black;
 }
 
 .row{
