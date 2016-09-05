@@ -1,4 +1,4 @@
-@@media (min-width){
+@@media (min-width:500px){
   .flex{display:flex;flex-wrap: flex;}
 }
 
