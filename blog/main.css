@@ -1,10 +1,8 @@
-@media (max-width: 550px){
-  nav{
-    width: 100%;
-  }}
+@@media (min-width){
+  .flex{display:flex;flex-wrap: flex;}
+}
 
-.image{
-position: relative;
+.image{position: relative;
 width: 100%;
 margin-left: 0;
 }
@@ -18,11 +16,7 @@ h1{
 
 }
 
-nav{
-  border-right-style: solid;
-  border-color: #999;
-  border-width: 1px;
-  text-align: center;
+nav{  text-align: center;
 }
 
 nav ul{
@@ -44,12 +38,7 @@ nav ul li a{
   color: black;
 }
 
-.row{
-  display: flex;flex-wrap: flex;
-}
-
-h2{
-  font-size: 2rem;
+h2{  font-size: 2rem;
   font-family: monospace;;
 }
 
