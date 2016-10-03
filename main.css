@@ -62,3 +62,13 @@ body{
 p{
   margin-right: auto;
 }
+
+.quote2{
+
+ border-style: double;
+ border-color: black;
+}
+.get-quote, .share-quote {
+    padding: 200px;
+
+}
